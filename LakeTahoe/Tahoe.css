@@ -5,6 +5,11 @@ body {
     background-color: lightseagreen;
 }
 
+.heading {
+    text-align: center;
+    font-family: 'lobster', cursive;
+} 
+
 .div1 {
     float: left;
 } 
@@ -22,4 +27,8 @@ fieldset {
     content: "";
     clear: both;
     display: table;
+} 
+
+.right {
+    float: right;
 }
