@@ -41,14 +41,20 @@ h1, h3 {
 }
 
 .div1 {
-    float: left;
+    float: left;  
+    width: 250px;
+    height: 250px;  
 } 
 
 #circleimg {
-    height:100px;
-    width: 100px;
+    height:100%;
+    width: 100%;
     padding-right: 5px;
-    border-radius: 180px;
+    border-radius: 360px;
+} 
+
+.paradiv {
+    float: left;
 } 
 
 fieldset {
@@ -62,6 +68,5 @@ fieldset {
 } 
 
 .right {
-    float: right;
-    
-}
+    float: right;    
+} 
