@@ -16,4 +16,10 @@ img {
 
 fieldset {
     color: black;
+} 
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
