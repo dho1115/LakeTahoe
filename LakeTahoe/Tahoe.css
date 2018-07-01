@@ -15,6 +15,7 @@ body > div {
 
 .heading {
    font-family: 'lobster', cursive;
+   color: rgb(255, 0, 234);
 } 
 
 h1, h3 {
