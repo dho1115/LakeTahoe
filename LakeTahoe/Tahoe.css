@@ -1,7 +1,7 @@
 
 
 body {
-    margin: auto;
+    margin: auto 10% auto 10%;
     background-color: lightseagreen;
 }
 
@@ -17,6 +17,8 @@ body {
 img {
     height:300px;
     width: 300px;
+    padding-right: 5px;
+    border-radius: 180px;
 } 
 
 fieldset {
@@ -31,4 +33,5 @@ fieldset {
 
 .right {
     float: right;
+    
 }
