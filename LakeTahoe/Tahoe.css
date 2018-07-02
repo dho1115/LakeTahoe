@@ -1,9 +1,11 @@
 
 
 body {
-    margin: auto 15% auto 15%;
+    margin: 5% 25% 5% 25%;
     background-color: lightseagreen;
     background-image: url(TahoeVII.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body > div {
@@ -40,6 +42,10 @@ h1, h3 {
     line-height: 0.5;
 }
 
+h1 {
+    font-size: 300%;
+}
+
 /* .div1 {
     float: left;  
     width: 250px;
@@ -47,11 +53,11 @@ h1, h3 {
 }  */
 
 #circleimg {
-    height:250px;
-    width: 250px;
+    height:150px;
+    width: 150px;
     float: left;
-    padding-right: 5px;
-    border-radius: 360px;
+    padding-right: 5px;    
+    border-radius: 360px
 } 
 
 .paradiv {
