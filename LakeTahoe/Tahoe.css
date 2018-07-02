@@ -1,7 +1,7 @@
 
 
 body {
-    margin: auto 10% auto 10%;
+    margin: auto 15% auto 15%;
     background-color: lightseagreen;
     background-image: url(TahoeVII.jpg);
 }
@@ -9,7 +9,7 @@ body {
 body > div {
     border: 3px solid black;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 15px;    
 } 
 
 nav {
@@ -31,8 +31,8 @@ nav {
 } 
 
 .BodyDiv {
-    padding: 5% 5% 5%;
-    margin: 5% auto 5% auto;
+    padding: 0px 5% 5% 5%;
+    margin: 0px auto 0px auto;
 } 
 
 h1, h3 {
@@ -40,15 +40,16 @@ h1, h3 {
     line-height: 0.5;
 }
 
-.div1 {
+/* .div1 {
     float: left;  
     width: 250px;
     height: 250px;  
-} 
+}  */
 
 #circleimg {
-    height:100%;
-    width: 100%;
+    height:250px;
+    width: 250px;
+    float: left;
     padding-right: 5px;
     border-radius: 360px;
 } 
