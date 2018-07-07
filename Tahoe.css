@@ -80,6 +80,6 @@ fieldset {
 
 /*For the Things to do*/
 
-.TTD {
-    background-color: springgreen;
+.TTDDiv {
+    height: 100%;
 }
